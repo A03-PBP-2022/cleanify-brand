@@ -26,7 +26,7 @@ Warna yang digunakan adalah `#1b955c`.
 | - | - |
 | Normal | [<img height="64" src="logo.svg">](logo.svg)
 | Maskable | [<img height="64" src="logo-maskable.svg">](logo-maskable.svg)
-| Maskable | [<img height="64" src="logo-maskable-dark.svg">](logo-maskable-dark.svg)
+| Maskable Dark | [<img height="64" src="logo-maskable-dark.svg">](logo-maskable-dark.svg)
 
 ### Bentuk panjang
 
@@ -34,5 +34,5 @@ Warna yang digunakan adalah `#1b955c`.
 | - | - |
 | Normal | [<img height="64" src="logo-long.svg">](logo-long.svg)
 | Maskable | [<img height="64" src="logo-long-maskable.svg">](logo-long-maskable.svg)
-| Maskable | [<img height="64" src="logo-long-maskable-dark.svg">](logo-long-maskable-dark.svg)
+| Maskable Dark | [<img height="64" src="logo-long-maskable-dark.svg">](logo-long-maskable-dark.svg)
 
